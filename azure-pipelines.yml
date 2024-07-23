@@ -1,3 +1,9 @@
+trigger:
+ - main
+ 
+pool:
+ name: 'agent007'
+
 variables:
   buildConfiguration: 'Release'
 
